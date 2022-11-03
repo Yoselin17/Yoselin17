@@ -1,4 +1,4 @@
-(https://github.com/Sussanara/Sussanara/blob/main/header.png)
+(https://github.com/Yoselin17/yoselin177/edit/main/README.md))
 Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alto sentido de superación, con experiencia para trabajar bajo presión, habilidades para establecer relacion es interpersonales
 h5>💡Habilidades</h5>
 
