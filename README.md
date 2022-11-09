@@ -1,5 +1,5 @@
 
-![Image text center](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKNt93bn4mA0VGWXGgm7D8y0eFdFRfFrrgQ&usqp=CAU)
+                        ![Image text center](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKNt93bn4mA0VGWXGgm7D8y0eFdFRfFrrgQ&usqp=CAU)
 
 
 
@@ -29,6 +29,7 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
 <h5>✍ Datos Personales:</h5>😊
   
 <a href="https://www.linkedin.com/in/yoselin-retamal-gonzalez-5aa737254//" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
- file:///C:/Users/Yoselin/Desktop/Yoselin%20Andrea%20Retamal%20Gonzalez%20-%20Curriculuum..pdf
+
+ <h1>Celular +569 50177678<h1>☎📞
   
   
