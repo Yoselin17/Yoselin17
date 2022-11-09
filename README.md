@@ -7,7 +7,7 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
 
 
 
-💡Habilidades</h10>
+💡Habilidades</h10>👨‍🎓
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -22,9 +22,8 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
   
  
 
-<h5>🦸‍♀️ Datos Personales:</h5>
-  
- <a href="https://www.linkedin.com/in/yoselin-retamal-gonzalez-5aa737254//" target="_blank"> 
+<h5>✍ Datos Personales:</h5>😊
+ <a href="https://www.linkedin.com/in/yoselin-retamal-gonzalez-5aa737254//" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
  file:///C:/Users/Yoselin/Desktop/Yoselin%20Andrea%20Retamal%20Gonzalez%20-%20Curriculuum..pdf
   
   
