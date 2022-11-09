@@ -19,4 +19,11 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  
+  [![Top Langs] https://github.com/Yoselin17/Yoselin17/edit/main/README.md
 
+<h5>🦸‍♀️ Datos Personales:</h5>
+  
+  <a href= https://www.linkedin.com/in/yoselin-retamal-gonzalez-5aa737254/
+  
+  
