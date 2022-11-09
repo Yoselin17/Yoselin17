@@ -1,10 +1,10 @@
 
-                        ![Image text center](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKNt93bn4mA0VGWXGgm7D8y0eFdFRfFrrgQ&usqp=CAU)
+![Image text center](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKNt93bn4mA0VGWXGgm7D8y0eFdFRfFrrgQ&usqp=CAU)
 
 
 
 
-<h9>Hola, soy Yoselin<h9>🏽💯🔅
+<h5>Hola, soy Yoselin<h5>🏽💯🔅
 
 
 Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alto sentido de superación, con experiencia para trabajar bajo presión, habilidades para establecer relacion es interpersonales
