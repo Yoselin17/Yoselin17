@@ -1,8 +1,12 @@
 
+![Image text](https://cdn-3.expansion.mx/dims4/default/34f8423/2147483647/strip/true/crop/1000x667+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff0%2F1d%2Fd0b7fd994e67a9f48564db5f7507%2Fistock-856757428-copy.jpg)
+
+
+
+
 <h9>Hola, soy Yoselin<h9>
 
 
-(https://github.com/Yoselin17/yoselin177/edit/main/README.md))
 Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alto sentido de superación, con experiencia para trabajar bajo presión, habilidades para establecer relacion es interpersonales
 
 
