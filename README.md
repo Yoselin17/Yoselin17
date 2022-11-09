@@ -1,5 +1,5 @@
 
-<h3>Hola, soy Yoselin<h3>
+<h9>Hola, soy Yoselin<h9>
 
 
 (https://github.com/Yoselin17/yoselin177/edit/main/README.md))
@@ -24,7 +24,7 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
 
 <h5>🦸‍♀️ Datos Personales:</h5>
   
- <a href="https://www.linkedin.com/in/yoselin-retamal-gonzalez-5aa737254//" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+ <a href="https://www.linkedin.com/in/yoselin-retamal-gonzalez-5aa737254//" target="_blank"> 
  file:///C:/Users/Yoselin/Desktop/Yoselin%20Andrea%20Retamal%20Gonzalez%20-%20Curriculuum..pdf
   
   
