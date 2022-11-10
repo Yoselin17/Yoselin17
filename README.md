@@ -4,7 +4,7 @@
 
 
 
-<h5>Hola, soy Yoselin<h5>🏽💯🔅
+<h5>Hola, soy Yoselin<h5>🏽💯🔅🎓🏽‍🎓👩🏽‍💻
 
 
 Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alto sentido de superación, con experiencia para trabajar bajo presión, habilidades para establecer relacion es interpersonales
@@ -23,6 +23,13 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+<h3><📊> Estadísticas de Github <📊/> </h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvadneO&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvadneO&layout=compact&show_icons=true&theme=radical)](https://github.com/EvadneO/EvadneO/edit/main/README.md)
   
  
 
