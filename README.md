@@ -27,9 +27,9 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
 
 <h3><📊> Estadísticas de Github <📊/> </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvadneO&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github.com/Yoselin17)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvadneO&layout=compact&show_icons=true&theme=radical)](https://github.com/EvadneO/EvadneO/edit/main/README.md)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=EvadneO&layout=compact&show_icons=true&theme=radica](https://github.com/Yoselin17)l)](https://github.com/Yoselin17)
   
  
 
