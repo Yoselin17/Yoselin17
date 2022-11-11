@@ -32,11 +32,6 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
     <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=yoselin17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoselin17&layout=compact&langs_count=7&theme=dracula"/>
   </div>
-
-![Anurag's GitHub stats]([https://github.com/Yoselin1](https://github.com/Yoselin17/Yoselin17/edit/main/README.md)7)
-
-[![Top Langs]([[https://github-readme-stats.vercel.app/api/top-langs/?username=EvadneO&layout=compact&show_icons=true&theme=radica](https://github.com/Yoselin17)l]([https://github.com/Yoselin17/Yoselin17/edit/main/README.md))](https://github.com/Yoselin17](https://github.com/Yoselin17/Yoselin17/edit/main/README.md))
-  
  
 
 <h5>✍ Datos Personales:</h5>😊
