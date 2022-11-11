@@ -25,12 +25,12 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-<h3><📊> Estadísticas de Github <📊/> </h3>
+<h3><⭐> Estadísticas de Github </> </h3>
   
   <div>
-  <a href="https://github.com/yoselin17">
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=yoselin17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoselin17&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Yoselin17">
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=Yoselin17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoselin17&layout=compact&langs_count=7&theme=dracula"/>
   </div>
  
 
