@@ -1,5 +1,5 @@
 
-![Image text-align: center;](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8STpPR7SM0OhxY9PcGkHClLkNX4jjHcVsrA&usqp=CAU)
+![Image ] text-align: center;(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8STpPR7SM0OhxY9PcGkHClLkNX4jjHcVsrA&usqp=CAU)
 
 
 
