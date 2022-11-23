@@ -24,7 +24,7 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-<h3><⭐> Estadísticas de Github </> </h3>
+<h3><⭐> Estadísticas Github </> </h3>
   
   <div>
   <a href="https://github.com/Yoselin17">
