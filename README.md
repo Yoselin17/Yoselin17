@@ -10,7 +10,7 @@ Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alt
 
 
 
-💡Habilidades</h10>👨‍🎓📝🎓
+💡Habilidades</h10>👨‍🎓📝🎓🎓
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
