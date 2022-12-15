@@ -4,7 +4,7 @@
 
 
 
-<h5>Hola, soy Yoselin<h5>🖐🏽👩🏽‍🎓🎓🎓📃📗
+<h5>Hola, soy Yoselin<h5>🖐🏽👩🏽‍🎓🎓🎓📃📗📜
 
 Desarrolladora Front End Jr. Ing en Administracion de Empresas Mencion RRHH. Alto sentido de superación, con experiencia para trabajar bajo presión, habilidades para establecer relacion es interpersonales
 
